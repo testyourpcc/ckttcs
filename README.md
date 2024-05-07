@@ -10,8 +10,8 @@ CYBERSECURITY FOR MOBILE PHONE E-COMMERCE WEBSITE
 # Các lỗi tiêu biểu
 ## CSRF
 ![[csrf0](xsrf0.png)](https://github.com/testyourpcc/ttcs/blob/master/xsrf0.png)
-![csrf1](xsrf.png)
-![csrf2](xsrf2.png)
+![[csrf1](xsrf.png)](https://github.com/testyourpcc/ttcs/blob/master/xsrf.png)
+![[csrf2](xsrf2.png)](https://github.com/testyourpcc/ttcs/blob/master/xsrf2.png)
 ## Backup database
-![csrfahg](db1.png)
-![csrfagd](db2.png)
+![[csrfahg](db1.png)](https://github.com/testyourpcc/ttcs/blob/master/db1.png)
+![[csrfagd](db2.png)](https://github.com/testyourpcc/ttcs/blob/master/db2.png)
