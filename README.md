@@ -6,10 +6,10 @@ CYBERSECURITY FOR MOBILE PHONE E-COMMERCE WEBSITE
 # Mô hình web
 ![mvc.png](https://github.com/testyourpcc/ttcs/blob/master/mvc.png)
 # Các lỗi đã tìm hiểu trong đồ án
-![attack](./attack.png)
+![[attack](./attack.png)](https://github.com/testyourpcc/ttcs/blob/master/attack.png)
 # Các lỗi tiêu biểu
 ## CSRF
-![csrf0](xsrf0.png)
+![[csrf0](xsrf0.png)](https://github.com/testyourpcc/ttcs/blob/master/xsrf0.png)
 ![csrf1](xsrf.png)
 ![csrf2](xsrf2.png)
 ## Backup database
