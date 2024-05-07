@@ -6,7 +6,7 @@ CYBERSECURITY FOR MOBILE PHONE E-COMMERCE WEBSITE
 # Mô hình web
 ![image](mvc.png)
 # Các lỗi đã tìm hiểu trong đồ án
-![attack](attack.png)
+![attack](./attack.png)
 # Các lỗi tiêu biểu
 ## CSRF
 ![csrf0](xsrf0.png)
