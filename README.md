@@ -4,7 +4,7 @@ CYBERSECURITY FOR MOBILE PHONE E-COMMERCE WEBSITE
 - Tìm hiểu và phòng tránh 10 loại hình tấn công website phổ biến dựa trên OWASP top 10.
 - Phòng tránh các lỗ hổng liên quan đến hệ cơ sở dữ liệu
 # Mô hình web
-![image](mvc.png)
+![mvc.png](https://github.com/testyourpcc/ttcs/blob/master/mvc.png)
 # Các lỗi đã tìm hiểu trong đồ án
 ![attack](./attack.png)
 # Các lỗi tiêu biểu
